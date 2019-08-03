@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "This Page is Intentionally Left Blank"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Min Luo"
+description              : ":]"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -110,8 +110,11 @@ author:
   name             : "Your Name"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.png"
   bio              : "I am an **amazing** person."
+  name             : "Min Luo"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : ":]"
   location         : "Somewhere"
-  email            :
+  email            : "hminluo921128@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
