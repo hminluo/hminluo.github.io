@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Min Luo"
-  avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.png"
+  avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.png"
   bio              : ":]"
   location         : "Somewhere in Orlando"
   email            : "hminluo921128@gmail.com"
