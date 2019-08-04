@@ -35,7 +35,7 @@ df <- read_csv("file_path")
 ```
 
 Add an image here.
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/paranormal_distribution.png" alt="Test image">
+<img src="https://raw.githubusercontent.com/hminluo/hminluo.github.io/master/assets/images/paranormal_distribution.png" alt="Test image">
 
 Math equations (put mathjax in front matter)
-$$c**2 = a**2 + b**2$$
+$$c^2 = a^2 + b^2$$
