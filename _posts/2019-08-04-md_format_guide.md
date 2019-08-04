@@ -3,6 +3,7 @@ layout: single
 title: "Markdown Format Guide"
 excerpt: "Quick guide for formatting stuff in markdown"
 mathjax: "true"
+date: 2019-08-04
 ---
 
 ## This is an H2 Heading
@@ -39,3 +40,6 @@ Add an image here.
 
 Math equations (put mathjax in front matter)
 $$c^2 = a^2 + b^2$$
+
+
+See [here](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/#) for even more ways to beautify your posts.
