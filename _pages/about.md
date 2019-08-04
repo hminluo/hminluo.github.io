@@ -7,6 +7,10 @@ permalink: /about/
 <head>
 <style>
 
+.page {
+  padding-right:0px;
+}
+
 .p1 {
     font-size:15px;
     margin-top: 10px;
