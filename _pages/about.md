@@ -3,7 +3,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -30,7 +29,7 @@ permalink: /about/
     border-radius: 10px;
     background-color: #4ae8cb;
     overflow: hidden;
-    width:40%;
+    width:60%;
 }
 .profile1 {
   object-fit: cover;
@@ -83,7 +82,7 @@ permalink: /about/
 <div class="post-container">
 <div class="card">
 <div class="img-container">
-<img src="https://raw.githubusercontent.com/hminluo/hminluo.github.io/master/images/profile.png" alt="Avatar" class="pic profile1">
+<img src="https://raw.githubusercontent.com/hminluo/hminluo.github.io/master/assets/images/profile.png" alt="Avatar" class="pic profile1">
 </div>
 <p class='p1'>
 <b>Branch Manager</b>
@@ -93,7 +92,7 @@ permalink: /about/
 </div>
 <div class="card">
 <div class="img-container">
-        <img src="https://raw.githubusercontent.com/hminluo/hminluo.github.io/master/images/Max.jpg" alt="Avatar" class="pic profile2">
+        <img src="https://raw.githubusercontent.com/hminluo/hminluo.github.io/master/assets/images/Max.jpg" alt="Avatar" class="pic profile2">
 </div>
 <p class='p1'>
 <b>Assistant Branch Manager</b>
