@@ -31,7 +31,7 @@ permalink: /about/
 .card {
     margin: 20px;
     border-radius: 10px;
-    background-color: #4ae8cb;
+    background-color: #ffffff;
     overflow: hidden;
     width:60%;
 }
@@ -91,7 +91,7 @@ permalink: /about/
 <p class='p1'>
 <b>Branch Manager</b>
 <br><br>
-<b>Min</b> is a (allegedly)breaking-and-(attemp to)fixing things enthusiast. She is currently pursuing a master's degree in Statistical Computing at University of Central Florida.
+<b>Min</b> is a (allegedly)breaking-and-(attempt to)fixing things enthusiast. She has a piece of paper stating she has a master's degree from University of Central Florida in Statistical Computing with a focus on Data Mining. She uses Max as a model in her drawings.
 </p>
 </div>
 <div class="card">
@@ -102,7 +102,7 @@ permalink: /about/
 <b>Assistant Branch Manager</b>
 <br>
 <br>
-<b>Max</b> is a beagle/foxhound-looking mutt. He holds PhD(og) degrees in Food Science, and  Front-end Security from an unaccredited online university.
+<b>Max</b> is a corgi/foxhound-looking mutt. He holds a PhD(og) degrees in Food Science, and Front-End Security from an unaccredited online university. He claims he's at least 6 ft when he's standing on a high chair. He does modeling as a side gig.
 </p>
 
 </div>
