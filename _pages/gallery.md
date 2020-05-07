@@ -1,8 +1,7 @@
 ---
-title: Gallery
-layout: collection
+title: "Gallery"
+layout: single
 permalink: /gallery/
-collection: gallery
 entries_layout: grid
 classes: wide
 
