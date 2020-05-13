@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /posts/
-title: "Post"
+title: "Scribbles"
 author_profile: true
 ---
 
