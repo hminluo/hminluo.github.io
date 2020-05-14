@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /scribbles/
+permalink: /posts/
 title: "Scribbles"
 author_profile: true
 ---
